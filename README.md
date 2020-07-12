@@ -2,7 +2,7 @@
 
 # Chintan Pandya - @cpandya231
 
-Hi 👋 I am a software developer from India. I have been in the indusrty for 6+ years worked majorly in back-end and cloud. Now improving front-end skills to make things beautiful.
+Hi 👋 I am a software developer from India. I have been in the industry for 6+ years, worked majorly in back-end and cloud. Now improving front-end skills to make things beautiful.
 
 ## 👯 I’m looking to collaborate on
 
