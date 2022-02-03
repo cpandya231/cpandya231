@@ -27,7 +27,7 @@ Hi 👋 I am a software developer from India. I have been in the industry for 6+
 
 - "I am just a child who has never grown up. I still keep asking these ‘how’ and ‘why’ questions. Occasionally, I find an answer." <br><sub>- Stephen Hawking
   <br>
-- "Only when the tide goes out do you discover how's been swimming naked." <br><sub>- Warren Buffet
+- "Only when the tide goes out do you discover who's been swimming naked." <br><sub>- Warren Buffet
   <br>
 - "I could either watch it or become part of it." <br><sub>- Elon Musk
 
